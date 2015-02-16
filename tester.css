@@ -1,0 +1,51 @@
+body {
+  background: #0069ff; /*blue*/
+}
+
+.this {
+    background-image: url("whitenoise4.jpg");
+    text-align: center;
+}
+
+.break {
+    background-image: url("headwood2.png");
+}
+
+nav {
+  text-align: center;
+  color: white;
+  background: blue;
+}
+
+.pure-menu {
+background: blue;
+}
+
+nav {
+  text-align: center;
+  background: black;
+  color: white;
+}
+
+article {
+  font-family: Georgia, serif;
+  text-align: center;
+  color: white;
+  background: #0069ff;
+}
+
+article p {
+  background: #0069ff;
+  color: white;
+  text-align: left;
+  margin: 40px 340px 40px 240px;
+}
+
+article ol {
+    text-align: left;
+    margin: 40px 340px 40px 240px;
+}
+
+article h2 {
+  text-align: center;
+}
